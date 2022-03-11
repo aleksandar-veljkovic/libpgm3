@@ -1,6 +1,6 @@
 # libpgm3
 
-*version: 1.3.5*
+*version: 1.3.6*
 
 DISCLAIMER: I am not the author of this library.
 This is unofficial update of libpgm library, used for working with probabilistical graphical models. Any help with further upgrades of this unmaintained library is welcome.
